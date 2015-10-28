@@ -1,2 +1,3 @@
 # test-repo
-My first repo on GitHub!
+
+Mathemetics of Computation student at UCLA
